@@ -1,0 +1,7 @@
+E:\C# Problems\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+E:\C# Problems\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+E:\C# Problems\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+E:\C# Problems\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojAssemblyReference.cache
+E:\C# Problems\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+E:\C# Problems\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+E:\C# Problems\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
